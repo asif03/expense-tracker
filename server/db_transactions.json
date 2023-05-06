@@ -1,0 +1,34 @@
+{
+  "transactions": [
+    {
+      "id": 2,
+      "name": "Family Expenses",
+      "type": "expense",
+      "amount": 200000
+    },
+    {
+      "name": "Salary from Facebook",
+      "type": "income",
+      "amount": "400000",
+      "id": 3
+    },
+    {
+      "name": "Family Expenses",
+      "type": "expense",
+      "amount": 200000,
+      "id": 4
+    },
+    {
+      "name": "Income",
+      "type": "income",
+      "amount": 2000,
+      "id": 5
+    },
+    {
+      "name": "Salary from Facebook",
+      "type": "income",
+      "amount": 999,
+      "id": 6
+    }
+  ]
+}
